@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  /*style the header*/
+  header {
+    background-color:rgb(35, 34, 34);
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(126, 151, 235);
+  }
+
+  nav {
+    float: left;
+    width: 30%;
+    height: 1500px; /* only for demonstration, should be removed */
+    background: rgb(89, 85, 85);
+    padding: 20px 80px;
+    font-size: 20px;
+  }
+
+  a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+
+  article {
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #f1f1f1;
+    height: 1500px; /* only for demonstration, should be removed */
+  }
+  
+
+  footer {
+    background-color:rgb(35, 34, 34);
+    padding: 10px;
+    font-family:fantasy;
+    text-align: center;
+    font-size: 55px;
+    color: white;
+  }
+
+
+
+
+  

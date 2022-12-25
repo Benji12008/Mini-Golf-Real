@@ -16,8 +16,8 @@
 
   nav {
     float: left;
-    width: 15%;
-    height: 1700px; /* only for demonstration, should be removed */
+    width: 25%;
+    height: 2100px; /* only for demonstration, should be removed */
     background: rgb(89, 85, 85);
     padding: 20px 80px;
     font-size: 20px;
@@ -45,9 +45,9 @@
   article {
     float: left;
     padding: 20px;
-    width: 85%;
+    width: 75%;
     background-color: #f1f1f1;
-    height: 1700px; /* only for demonstration, should be removed */
+    height: 2100px; /* only for demonstration, should be removed */
   }
   
 
